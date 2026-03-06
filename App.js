@@ -37,7 +37,7 @@ Eu passarinho!{'\n'}</Text>
         borderWidth: 5,
         paddingHorizontal: 50,
         paddingVertical: 100 }}> 
-  <Text style={{ Flex: 1,fontSize: 13, fontFamily: 'italic' }}> 
+  <Text style={{fontSize: 16, fontFamily: 'italic' }}> 
    <Text>Manuel Bandeira</Text>{'\n'}
     Andorinha lá fora está dizendo:{'\n'}
 — Passei o dia à toa, à toa!{'\n'}
@@ -53,7 +53,7 @@ Passei a vida à toa, à toa...{'\n'}</Text>
         paddingHorizontal: 80,
         paddingVertical: 100
         }}> 
-  <Text style={{fontSize: 18, fontFamily: 'italic' }}>amar é um elo{'\n'}
+  <Text style={{fontSize: 23, fontFamily: 'italic' }}>amar é um elo{'\n'}
 entre o azul{'\n'}
 e o amarelo{'\n'}</Text>
  
